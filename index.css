@@ -53,7 +53,7 @@ h2::before {
 
 #instructions {
     /* display: flex; */
-    margin-left: -800px ;
+/*     margin-left: -800px ; */
     width: 70vw;
     justify-content: center;
     text-align: center;
