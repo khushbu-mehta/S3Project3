@@ -62,7 +62,7 @@ h2::before {
   }
 
   canvas {
-    position: absolute;
+    position: relative;
     margin-top: 50%;
     align-items: center;
 /*     padding-left: 20px;
