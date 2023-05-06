@@ -89,3 +89,7 @@ class Ripple {
     return this.opacity < 0;
   }
 }
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
